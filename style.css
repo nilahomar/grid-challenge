@@ -117,10 +117,11 @@ body {
   font-size: 0.8rem;
 }
 
-.card-image svg {
+
+.card-image img {
   display: flex;
   margin-left: auto;
-  margin-top: 2rem;
+  margin-top: 3rem;
 }
 
 @media (max-width: 375px) {
